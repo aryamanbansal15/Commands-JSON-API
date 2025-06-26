@@ -1,20 +1,9 @@
 {
   "categories": [
     {
-      "name": "Basic Need",
+      "name": "Basic Needs",
       "icon": "assets/images/basic_need.jpg",
       "phrases": [
-        "🥗 I am hungry",
-        "💧 I want water",
-        "🚻 I need to use the toilet",
-        "😓 I am tired",
-        "🥵 I feel hot",
-        "🥶 I feel cold",
-        "🛏 I need rest",
-        "🛌 I want to lie down",
-        "😖 I feel pain"
-      ],
-      "phrases1": [
         "I am hungry",
         "I want water",
         "I need to use the toilet",
@@ -30,17 +19,6 @@
       "name": "Feelings & Emotions",
       "icon": "assets/images/feelings.jpg",
       "phrases": [
-        "😄 I am happy",
-        "😞 I am sad",
-        "😡 I am angry",
-        "😰 I am scared",
-        "😑 I am bored",
-        "🤧 I feel sick",
-        "👍 I am okay",
-        "😍 I love this",
-        "👎 I don’t like this"
-      ],
-      "phrases1": [
         "I am happy",
         "I am sad",
         "I am angry",
@@ -56,17 +34,6 @@
       "name": "Greetings & Social",
       "icon": "assets/images/greeting.jpg",
       "phrases": [
-        "🤝 Hello",
-        "🌅 Good morning",
-        "🌃 Good night",
-        "🙇 Thank you",
-        "👉👈 Please",
-        "🙏 Sorry",
-        "👋Bye",
-        "❓ How are you?",
-        "👌 Nice to meet you"
-      ],
-      "phrases1": [
         "Hello",
         "Good morning",
         "Good night",
@@ -82,17 +49,6 @@
       "name": "Questions",
       "icon": "assets/images/questions.jpg",
       "phrases": [
-        "📍 Where are we going?",
-        "🤨 What is this?",
-        "🤷 Who is that?",
-        "🙋 Can you help me?",
-        "⌛ When will we go?",
-        "❓ Why did that happen?",
-        "😅 Can I do it?",
-        "😟 Are you okay?",
-        "🤔 What are you doing?"
-      ],
-      "phrases1": [
         "Where are we going?",
         "What is this?",
         "Who is that?",
@@ -108,17 +64,6 @@
       "name": "Choices & Preferences",
       "icon": "assets/images/choices.jpg",
       "phrases": [
-        "🥺 I want this",
-        "🙅 I don’t want this",
-        "👍 I like it",
-        "👎 I don’t like it",
-        "✅ Yes",
-        "❌ No",
-        "🤷 Maybe",
-        "🤩 I want more",
-        "😅 I want something else"
-      ],
-      "phrases1": [
         "I want this",
         "I don’t want this",
         "I like it",
@@ -134,17 +79,6 @@
       "name": "People",
       "icon": "assets/images/people.jpg",
       "phrases": [
-        "👩 Mom",
-        "👨 Dad",
-        "🏫 Teacher",
-        "👬 Friend",
-        "♂️ Brother",
-        "♀️ Sister",
-        "🩺 Doctor",
-        "👉 You",
-        "🙋 Me"
-      ],
-      "phrases1": [
         "Mom",
         "Dad",
         "Teacher",
@@ -160,17 +94,6 @@
       "name": "Places",
       "icon": "assets/images/places.jpg",
       "phrases": [
-        "🏠 Home",
-        "🏫 School",
-        "🛁 Bathroom",
-        "🍴 Kitchen",
-        "🌳 Outside",
-        "🚪 Inside",
-        "🏥 Hospital",
-        "⚽  Playground",
-        "🛋️ Room"
-      ],
-      "phrases1": [
         "Home",
         "School",
         "Bathroom",
@@ -186,17 +109,6 @@
       "name": "Activities",
       "icon": "assets/images/activities.jpg",
       "phrases": [
-        "⛹️ I want to play",
-        "🌳 Let’s go outside",
-        "📗 I am reading",
-        "📺 I am watching TV",
-        "🙌 I am done",
-        "😴 I want to sleep",
-        "😋 Let’s eat",
-        "🚶 Let’s go for a walk",
-        "💼 I am working"
-      ],
-      "phrases1": [
         "I want to play",
         "Let’s go outside",
         "I am reading",
@@ -212,17 +124,6 @@
       "name": "Emergency",
       "icon": "assets/images/emergency.jpg",
       "phrases": [
-        "🆘 Help me!",
-        "🤕 I am hurt",
-        "😷 I can’t breathe",
-        "🩺 Call the doctor",
-        "🥴 I feel dizzy",
-        "🤒 I feel very sick",
-        "🚨 It’s an emergency",
-        "💊 I need medicine",
-        "⛑️ I need help now"
-      ],
-      "phrases1": [
         "Help me!",
         "I am hurt",
         "I can’t breathe",
